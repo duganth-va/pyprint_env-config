@@ -3,10 +3,10 @@ configs:
   url2: www.test3.com
   db1: fakedb
   db1_port: 2222
-  db2: realdb
+  db2: newdb
   db2_port: 2424
 secrets:
   api_key: 1
   db1_pw: 1
-  db2_pw: 1
+  db2_pw: 2
   oauthtoken: 1
