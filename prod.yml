@@ -1,6 +1,6 @@
 configs:
   url1: www.test.com
-  url2: www.test2.com
+  url2: www.test3.com
   db1: fakedb
   db1_port: 2222
   db2: realdb
