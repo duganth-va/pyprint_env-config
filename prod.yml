@@ -1,12 +1,12 @@
 configs:
   url1: www.test.com
   url2: www.test3.com
-  db1: fakedb
+  db1: newfakedb
   db1_port: 2222
   db2: newdb
   db2_port: 2424
 secrets:
   api_key: 1
-  db1_pw: 1
+  db1_pw: 2
   db2_pw: 2
   oauthtoken: 1
